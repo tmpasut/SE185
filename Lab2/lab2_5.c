@@ -33,6 +33,10 @@ int main()
     double filler;
     /* Put your code after this line */
 
+	//Use 2 scanf function with %lf (as done in lab1)
+	//After each scanf use a printf to print the statement
+	
+	//calculate the c value, store the result in a variable, print it
 
     /*  This next line will calculate the square root of whatever value is
         inside the parenthesis and assigns it to the variable filler. */
